@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Steve",
+    "age": 15,
+    "had_sex": true
+  },
+  {
+    "name": "Alex",
+    "age": 10,
+    "living": null
+  }
+]
